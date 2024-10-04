@@ -13,7 +13,7 @@ export const gridItems = [
     className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
     imgClassName: "w-full h-full",
     titleClassName: "justify-end",
-    img: "/b1.webp",
+    img: "/b1.svg",
     spareImg: "",
   },
   {
@@ -82,7 +82,7 @@ export const projects = [
     id: 2,
     title: "Yoom - Video Conferencing App",
     des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-    img: "/SeemDev.png",
+    img: "/video-confrence.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
     link: "https://zoom-clone-main.netlify.app/sign-in?redirect_url=https%3A%2F%2Fzoom-clone-main.netlify.app%2F",
   },
