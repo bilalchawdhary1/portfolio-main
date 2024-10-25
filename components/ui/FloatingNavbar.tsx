@@ -71,7 +71,7 @@ export const FloatingNav = ({
           border: "1px solid rgba(255, 255, 255, 0.125)",
         }}
       >
-        {/* <span className="text-xl font-bold text-white mr-6">SeemDev</span> */}
+        {/* <span className="text-xl font-bold text-white mr-6">Muhammad Bilal</span> */}
         {navItems.map((navItem: any, idx: number) => (
           <Link
             key={`link=${idx}`}
