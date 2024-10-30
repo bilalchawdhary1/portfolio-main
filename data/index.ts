@@ -107,33 +107,38 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "I had the pleasure of working with Bilal, an exceptional React developer. His work is consistently outstanding, having developed numerous impressive websites. My experience collaborating with him was truly remarkable, and I highly recommend his expertise.",
+    name: "Usama Zafar",
+    title: "CEO Of LSC",
+    profileImg: "/2.png",
   },
   {
     quote:
       "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
+    profileImg: "/1.png",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with Muhammad was a game-changer for our business. His expertise in development and attention to detail helped us achieve exactly what we envisioned. From start to finish, Muhammad was responsive, knowledgeable, and committed to excellence. Highly recommended for anyone seeking to bring their project to life with precision and creativity.",
+    name: "Sarah Bennett",
+    title: "CEO of Vertex Innovations",
+    profileImg: "/3.png",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Muhammad's dedication to the success of our project went above and beyond. He listened closely to our needs, provided valuable insights, and consistently delivered high-quality work on time. His blend of technical skills and problem-solving ability made him an invaluable asset to our team. We couldn’t be happier with the results!",
+    name: "James Turner",
+    title: "Founder of Dynamic Solutions Group",
+    profileImg: "/4.png",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "It was a fantastic experience working with Muhammad. His technical knowledge and commitment to delivering exceptional work made a real difference in the final product. Not only did he bring our vision to life, but he also suggested innovative improvements that took our project to the next level. Highly recommended!",
+    name: "Emily Ross",
+    title: "Head of Operations at Horizon Ventures",
+    profileImg: "/5.png",
   },
 ];
 
